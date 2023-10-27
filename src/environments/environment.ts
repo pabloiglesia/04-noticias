@@ -2,9 +2,11 @@
 // `ng build` replaces `environment.ts` with `environment.prod.ts`.
 // The list of file replacements can be found in `angular.json`.
 
+//  apiKey: '65e689ffc93348e194ac828e65f1baa6'
 export const environment = {
   production: false,
-  apiKey: '65e689ffc93348e194ac828e65f1baa6'
+  apiKey: '431a2b39236d43baaafbf67530faa12d',
+  apiUrl: 'https://newsapi.org/v2',
 };
 
 /*
